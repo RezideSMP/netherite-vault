@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+    "minecraft:basalt_deltas"
+  ],
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {},
+  "start_pool": "netherite_armor_structure:netherite_vault",
+  "size": 7,
+  "start_height": {
+    "type": "uniform",
+    "min_inclusive": {
+      "absolute": 30
+    },
+    "max_inclusive": {
+      "absolute": 100
+    }
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}
