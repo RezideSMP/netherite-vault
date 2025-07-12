@@ -4,7 +4,7 @@
     "minecraft:nether_wastes"
   ],
   "step": "surface_structures",
-  "terrain_adaptation": "beard_box",
+  "terrain_adaptation": "bury",
   "spawn_overrides": {},
   "start_pool": "netherite-vault:netherite_vault",
   "size": 7,
