@@ -1,12 +1,12 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": [
-    "minecraft:nether_wastes"
+    "minecraft:basalt_deltas"
   ],
   "step": "surface_structures",
-  "terrain_adaptation": "bury",
+  "terrain_adaptation": "none",
   "spawn_overrides": {},
-  "start_pool": "netherite-vault:netherite_vault",
+  "start_pool": "netherite_armor_structure:netherite_vault",
   "size": 7,
   "start_height": {
     "type": "uniform",
